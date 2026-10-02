@@ -105,6 +105,8 @@ This is an observed association and should not be interpreted as proof that disc
 
 ## 📊 Dashboard
 
+![Retail Sales Performance Dashboard](dashboard_preview.png)
+
 The interactive dashboard includes:
 
 - Total Sales KPI
